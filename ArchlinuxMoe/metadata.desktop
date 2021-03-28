@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Moe themed ArchLinux Splash Screen
+Name=ArchLinux (Moe)
+X-KDE-PluginInfo-Author=perigoso
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=ArchlinuxMoe
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/perigoso/plasma-splash-arch-moe
+X-KDE-ServiceTypes=Plasma/LookAndFeel
