@@ -24,3 +24,7 @@ To set this splash screen as your plasma splash screen:
 - Click Splash Screen
 - Choose Archlinux (Moe)
 - Click Apply
+
+## Acknowledgements
+- [Moe Theme](https://gitlab.com/jomada/moe-theme)
+- [YAPLASS ArchLinux](https://www.opencode.net/mrmaire)
